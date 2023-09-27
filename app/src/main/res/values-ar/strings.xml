@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">प्लांट प्लैनेट</string>
+    <string name="camera_required">कैमरा की अनुमति आवश्यक है</string>
+    <string name="category">श्रेणी</string>
+    <string name="choose_crop">कृपया जारी रखने के लिए एक फसल चुनें</string>
+    <string name="comments">टिप्पणियाँ</string>
+    <string name="crop">फसल</string>
+    <string name="crops">फसलें</string>
+    <string name="delete">हटाएँ</string>
+    <string name="deleted_successfully">सफलतापूर्वक हटाया गया</string>
+    <string name="done_successfully">सफलतापूर्वक किया गया</string>
+    <string name="firestore_crops">crops_ar</string>
+    <string name="firestore_library">library_ar</string>
+    <string name="gps_required">जीपीएस आवश्यक है</string>
+    <string name="hear">सुनें</string>
+    <string name="history">इतिहास</string>
+    <string name="history_empty">जाँच के इतिहास यहाँ दिखाया जाता है</string>
+    <string name="import_image">आयात करें</string>
+    <string name="internet_required">इंटरनेट कनेक्शन आवश्यक है</string>
+    <string name="library">पुस्तकालय</string>
+    <string name="locate">स्थिति निर्धारित करें</string>
+    <string name="location_required">स्थान की अनुमति आवश्यक है</string>
+    <string name="management">प्रबंधन</string>
+    <string name="maps">नक्शे</string>
+    <string name="name">नाम</string>
+    <string name="not_supported">यह सुविधा आपके डिवाइस पर समर्थित नहीं है</string>
+    <string name="result">परिणाम</string>
+    <string name="save">सहेजें</string>
+    <string name="saved_successfully">सफलतापूर्वक सहेजा गया</string>
+    <string name="something_wrong">कुछ गड़बड़ है, कृपया पुन: प्रयास करें</string>
+    <string name="sort">क्रमबद्ध करें द्वारा</string>
+    <string name="symptoms">लक्षण</string>
+    <string name="title_activity_maps">नक्शा</string>
+    <string name="unknown_disease">हम इस रोग को पहचान नहीं सकते</string>
+    <string name="language_not_supported">यह भाषा समर्थित नहीं है</string>
+</resources>
