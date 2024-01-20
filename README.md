@@ -1,5 +1,5 @@
 # PlantPlanet
-PlantPlanet is an Android application for plant disease detection. This project is part of [my participation](https://eucys.eu/projects-2019/plantplanet/) in EU Contest for Young Scientists 2019 in Sofia, Bulgaria.
+PlantPlanet is an Android application for plant disease detection. This project is part of Smart India Hackathon SIH-2023
 
 ## Screenshots
 
